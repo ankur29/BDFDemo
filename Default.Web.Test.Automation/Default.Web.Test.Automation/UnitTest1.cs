@@ -15,8 +15,8 @@ using System.Configuration;
 namespace Default.Web.Test.Automation.TestCases
 {
     [TestFixture]
-    [Parallelizable]
-    class LoginTestCase : ReportGenerator
+  //  [Parallelizable]
+    class UnitTest1 : ReportGenerator
     {
         //Define Objects
         IWebDriver driver;
