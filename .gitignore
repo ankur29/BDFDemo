@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Default.Web.Test.Automation/Default.Web.Test.Automation/Reports
+/Default.Web.Test.Automation/Default.Web.Test.Automation/Screenshot
+/Default.Web.Test.Automation/Default.Web.Test.Automation/bin
+/Default.Web.Test.Automation/Default.Web.Test.Automation/obj
+/Default.Api.Test.Automation/bin
+/Default.Api.Test.Automation/Reports

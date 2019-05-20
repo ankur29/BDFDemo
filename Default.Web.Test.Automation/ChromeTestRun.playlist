@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Default.Web.Test.Automation.TestCases.EventTestCases.eventScheduling(&quot;Chrome&quot;)" /><Add Test="Default.Web.Test.Automation.TestCases.ForgotPasswordTestCases.forgotPassword(&quot;Chrome&quot;)" /><Add Test="DemoProject.TestCases.LoginTestCase.loginTC(&quot;Chrome&quot;)" /></Playlist>
